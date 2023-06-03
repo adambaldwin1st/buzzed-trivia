@@ -4,3 +4,4 @@
 /frontend/build/**
 /frontend/package-lock.json
 /frontend/yarn.lock
+package-lock.json
