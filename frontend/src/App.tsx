@@ -44,6 +44,7 @@ const App: React.FC = () => {
     return (
         <ThemeProvider theme={theme}>
             <CssBaseline />
+            <title>Buzzed Trivia</title>
             <div>
                 <AppBar position="fixed" className={classes.appBar}>
                     <Toolbar>
