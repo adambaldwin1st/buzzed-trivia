@@ -2,3 +2,5 @@
 /.idea/
 /api/.idea/
 /frontend/build/**
+/frontend/package-lock.json
+/frontend/yarn.lock
